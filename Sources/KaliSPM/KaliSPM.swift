@@ -1,5 +1,5 @@
 public struct KaliSPM {
-    var text = "Hello, World!"
+    var text = "Are you winning son?"
     
     public init() {
         
