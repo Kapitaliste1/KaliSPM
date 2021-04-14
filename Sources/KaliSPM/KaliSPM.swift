@@ -1,11 +1,11 @@
 public struct KaliSPM {
-    var text = "Are you winning son?"
+    var text = "Are you winning kid?"
     
     public init() {
         
     }
     
-    public func HelloWorl() -> String {
+    public func HelloKid() -> String {
         return text
     }
     
